@@ -34,7 +34,7 @@ AI-powered assistant for mastering Belote Contrée:
 | Stars            | —     |
 | Followers        | —     |
 
-*(Consider linking these dynamically via badges or manually updating.)*
+
 
 ---
 
